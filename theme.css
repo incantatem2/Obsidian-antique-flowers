@@ -294,10 +294,32 @@ div.view-header-title {
 
 }
 
+
+
+
+
+
+.theme-dark {
+
 .markdown-preview-section {
   background: #0A0605 !important;
   padding: 20px;
 }
+}
+
+
+
+.theme-light {
+
+  .markdown-preview-section {
+  background: #f5f4f4 !important;
+  padding: 20px;
+}
+
+
+}
+
+
 
 
 div.markdown-preview-view {
