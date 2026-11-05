@@ -354,7 +354,7 @@ div.markdown-preview-view {
   --color-base-70: #A1948F;
   --color-base-100: #A1948F;
 
-  --tab-divider-color: transparent !important;
+  --tab-divider-color: transparent;
 
   --interactive-normal: #49443B;
   --slider-track-background: #393e50;
@@ -408,7 +408,7 @@ div.markdown-preview-view {
   --color-base-70: #434B56;
   --color-base-100: #202430;
 
-  --tab-divider-color: transparent !important;
+  --tab-divider-color: transparent;
 
   --interactive-normal: #dcd9d5;
   --slider-track-background: #393e50;
